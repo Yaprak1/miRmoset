@@ -1,0 +1,6 @@
+Package: miRmoset 
+Type: Package 
+Title: miRmoset Package For miR Data Visualization  
+Version: 0.0.1.0
+RoxygenNote: 7.1.1
+LazyData: true
