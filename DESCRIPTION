@@ -1,8 +1,8 @@
-Package: miRmoset 
-Type: Package 
+Package: miRmoset
+Type: Package
 Title: miRmoset
 Version: 0.0.1
-Encoding: ANSI
+Encoding: UTF8
 RoxygenNote: 7.1.1
 LazyData: true
 Depends: R (>= 3.6.0)
