@@ -5,7 +5,7 @@
 \alias{gene_expression_regular}
 \title{gene_expression_regular}
 \format{
-An object of class \code{data.frame} with 492593 rows and 65 columns.
+An object of class \code{data.frame} with 492593 rows and 60 columns.
 }
 \usage{
 gene_expression_regular
